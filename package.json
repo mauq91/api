@@ -1,0 +1,10 @@
+{
+  "name": "x-feed-backend",
+  "version": "1.0.0",
+  "description": "Backend serverless para mostrar tweets en Webflow",
+  "main": "api/tweets.js",
+  "scripts": {
+    "start": "node api/tweets.js"
+  },
+  "license": "MIT"
+}
